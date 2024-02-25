@@ -4,7 +4,7 @@
 ## freq.pdf
 Введение к частотному словарю современного русского языка. Оригинал - http://dict.ruslang.ru/freq.pdf
 
-## леммы [➜](russian-language/freqdict/леммы.csv)
+## леммы [➜](https://github.com/isdemin/data-collection/blob/main/russian-language/freqdict/%D0%BB%D0%B5%D0%BC%D0%BC%D1%8B.csv)
 Алфавитный список лемм http://dict.ruslang.ru/freq.php?act=showabc&dic=freq_alf
 
 _49702 лемм с указанием частотности_
